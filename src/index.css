@@ -1,0 +1,7 @@
+body {
+    margin: 0;
+    height: 100vh;
+    background: linear-gradient(30deg, #1d2cfb, #90fa17);
+    background-size: 400% 400%;
+    animation: gradientBG 15s ease infinite;
+}
