@@ -22,3 +22,5 @@ $ cd sprite-react-p5
 $ npm install
 $ npm run dev
 ```
+
+---
