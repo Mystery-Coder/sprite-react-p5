@@ -5,7 +5,7 @@ Vite and React App with p5.js for generating n by n simple block sprites based o
 # <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Processing_2021_logo.svg" height=20 /> Processing Java
 
 The initial sketch was written in Processing Java, <a href="https://github.com/Mystery-Coder/Sprite-Generator">here</a>. To run on the web, that sketch was written in p5.js, an almost equivalent library.
-The p5
+
 
 # 🧠 Algorithm
 
